@@ -1,2 +1,2 @@
 #!/bin/bash
-zxport BEST=School
+export BEST=School
